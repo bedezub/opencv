@@ -203,7 +203,7 @@ calib3d = {
         'solvePnPRefineLM',
         'projectPoints',
         'undistort',
-
+        'RQDecomp3x3',
         # cv::fisheye namespace
         'fisheye_initUndistortRectifyMap',
         'fisheye_projectPoints',
